@@ -12,6 +12,7 @@ FPS = 65
 
 def ptrin_info():
     pass
+x
 
 mixer.init()
 mixer.music.load('space.ogg')
