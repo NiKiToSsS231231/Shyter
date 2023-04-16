@@ -10,6 +10,9 @@ background = transform.scale(image.load('galaxy.jpg'), (win_width,  win_height))
 clock = time.Clock()
 FPS = 65
 
+def ptrin_info():
+    pass
+
 mixer.init()
 mixer.music.load('space.ogg')
 mixer.music.play()
